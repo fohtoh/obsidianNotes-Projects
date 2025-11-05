@@ -1,0 +1,3 @@
+## Summary of "You've Been Using AI the Hard Way (Use This Instead)"
+
+This YouTube video by NetworkChuck advocates for using AI in the terminal as a more efficient alternative to browser-based AI. It demonstrates the installation and usage of terminal-based AI tools such as Gemini CLI, Claude Code, and OpenCode across Mac, Windows, and Linux operating systems. The video also covers the setup of project-aware context files and a workflow for synchronizing multiple AI tools within the same project folder.

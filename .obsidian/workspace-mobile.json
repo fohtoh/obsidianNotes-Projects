@@ -1,0 +1,206 @@
+{
+  "main": {
+    "id": "8128b3b95976aa32",
+    "type": "split",
+    "children": [
+      {
+        "id": "389f770b29020d6c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dcfd7e81ea601377",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f007cfa32c8ff826",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "c09be90c2c13dc30",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "byCreatedTime",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "11679a47eb5f7bb2",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "Linked ",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "1814afddc9522824",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "1492b6e9027e7dc2",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "starred"
+        }
+      },
+      {
+        "id": "3e81372909d3b4bb",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      },
+      {
+        "id": "3bb7e6b1d5a3b4ff",
+        "type": "leaf",
+        "state": {
+          "type": "all-properties",
+          "state": {
+            "sortOrder": "frequency",
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-archive",
+          "title": "All properties"
+        }
+      }
+    ],
+    "currentTab": 1
+  },
+  "right": {
+    "id": "16cfa6c7202bd027",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "bb6dca202fb54598",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "05 - Archieves/New Mac migration.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "a666e1d47e1327cb",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "05 - Archieves/New Mac migration.md",
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      },
+      {
+        "id": "29abc06410ea43e3",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {},
+          "icon": "calendar-with-checkmark",
+          "title": "Calendar"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "omnisearch:Omnisearch": false,
+      "obsidian-importer:Open Importer": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "audio-recorder:Start/stop recording": false
+    }
+  },
+  "active": "dcfd7e81ea601377",
+  "lastOpenFiles": [
+    "05 - Archieves/New Mac migration.md",
+    "LCR/GraphQL.md",
+    "LCR/CORS - workaround for CORS issue..md",
+    "dailyNotes/2021-10-18.md",
+    "dailyNotes/2021-04-13.md",
+    "LCR/CDOL in LCR.md",
+    "dailyNotes/2022-02-17.md",
+    "dailyNotes/2021-05-24.md",
+    "dailyNotes/2022-09-01.md",
+    "dailyNotes/2021-02-25.md",
+    "LCR/10-24-20 BLP Meeting.md",
+    "LCR/Define direction for LCR.md",
+    "LCR/One Work Info.md",
+    "LCR/One Work Development.md",
+    "LCR/React Prerequisites.md",
+    "dailyNotes/2021-03-04.md",
+    "dailyNotes/2022-10-06.md",
+    "LCR/LCR-8066.md",
+    "dailyNotes/attachments/Recording 20221007100203.webm",
+    "LCR/LCR - OAuth.md",
+    "LCR/LCR Projects.md",
+    "000 Index Pages/Work Notes.md",
+    "Vacation.md",
+    "dailyNotes/2022-10-07.md",
+    "People/Josh Kitterman.md",
+    "People/Rob Egbert.md"
+  ]
+}
