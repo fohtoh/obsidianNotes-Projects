@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "newComputer/PC_Build_Guide_2025.md",
+                "file": "games/nms/guides/honey-farming-guide.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "PC_Build_Guide_2025"
+              "title": "honey-farming-guide"
             }
           }
         ]
@@ -98,6 +98,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "games/nms/guides/honey-farming-guide.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -154,7 +155,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Graph of honey-farming-guide"
             }
           }
         ]
@@ -234,7 +235,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "nms/guides/honey-farming-guide.md",
+                "file": "games/nms/guides/honey-farming-guide.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -281,8 +282,10 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "7dc856309d6c51be",
+  "active": "3947428b13c99014",
   "lastOpenFiles": [
+    "newComputer/PC_Build_Guide_2025.md",
+    "nms/guides/honey-farming-guide.md",
     "games/nms/guides/honey-farming-guide.md",
     "games/nms/CLAUDE.md",
     "games/nms/guides",
@@ -293,8 +296,6 @@
     "learnAI/networkChuck.txt",
     "learnAI/GEMINI.md",
     "learnAI",
-    "newComputer/PC_Build_Guide_2025.md",
-    "nms/guides/honey-farming-guide.md",
     "nms/guides",
     "nms/honey-farming-guide.md",
     "nms/CLAUDE.md",
