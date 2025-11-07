@@ -6,7 +6,7 @@
 
 ## Overview
 
-Moses 1 records Moses's encounter with God on Mount Sinai before he received the Law. This chapter is rich with testimony of Jesus Christ, revealing His divine role as the Only Begotten Son of the Father, the Creator, and the Savior. While Moses converses with God the Father, the chapter contains powerful direct references to Christ and profound symbolic teachings about His mission.
+Moses 1 records Moses's encounter with God on Mount Sinai before he received the Law. This chapter is rich with testimony of [[Jesus Christ]], revealing His divine role as the Only Begotten Son of the Father, the Creator, and the Savior. While Moses converses with God the Father, the chapter contains powerful direct references to Christ and profound symbolic teachings about His mission.
 
 ---
 

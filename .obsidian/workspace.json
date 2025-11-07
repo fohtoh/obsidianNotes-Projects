@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "games/nms/guides/honey-farming-guide.md",
+                "file": "gospel/gospelStudy/comeFollowMe/2026 - Old Testament/Introduction to the Old Testament (Dec 29 - Jan 4).md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "honey-farming-guide"
+              "title": "Introduction to the Old Testament (Dec 29 - Jan 4)"
             }
           }
         ]
@@ -98,7 +98,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "games/nms/guides/honey-farming-guide.md",
+                "file": "gospel/gospelStudy/comeFollowMe/2026 - Old Testament/Introduction to the Old Testament (Dec 29 - Jan 4).md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -155,7 +155,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of honey-farming-guide"
+              "title": "Graph of Introduction to the Old Testament (Dec 29 - Jan 4)"
             }
           }
         ]
@@ -235,13 +235,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "games/nms/guides/honey-farming-guide.md",
+                "file": "gospel/gospelStudy/comeFollowMe/2026 - Old Testament/Introduction to the Old Testament (Dec 29 - Jan 4).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of honey-farming-guide"
+              "title": "Outline of Introduction to the Old Testament (Dec 29 - Jan 4)"
             }
           }
         ]
@@ -284,15 +284,16 @@
   },
   "active": "3947428b13c99014",
   "lastOpenFiles": [
+    "gospel/gospelStudy/scriptures/Moses/moses01.md",
+    "gospel/gospelStudy/comeFollowMe/2026 - Old Testament/Moses 1, Abraham 3 (Jan 5-11).md",
+    "gospel/gospelStudy/comeFollowMe/2026 - Old Testament/Introduction to the Old Testament (Dec 29 - Jan 4).md",
+    "games/nms/guides/honey-farming-guide.md",
     "gospel/CLAUDE.md",
     "gospel/GEMINI.md",
-    "gospel/gospelStudy/scriptures/Moses/moses01.md",
-    "gospel/gospelStudy/comeFollowMe/2026 - Old Testament/Introduction to the Old Testament (Dec 29 - Jan 4).md",
     "gospel/gospelStudy/scriptures/Genesis/genesis01.md",
     "gospel/gospelStudy/scriptures/Genesis/genesis02.md",
     "gospel/gospelStudy/comeFollowMe/2026 - Old Testament/README.md",
     "gospel/gospelStudy/scriptures/Abraham/abraham03.md",
-    "gospel/gospelStudy/comeFollowMe/2026 - Old Testament/Moses 1, Abraham 3 (Jan 5-11).md",
     "gospel/gospelStudy/topics/Jesus Christ.md",
     "gospel/gospelStudy/topics/Jews.md",
     "gospel/gospelStudy/scriptures/Moses",
@@ -317,7 +318,6 @@
     "gospel/scriptures/Pearl of Great Price/01 Moses/moses7.md",
     "gospel/scriptures/Pearl of Great Price/01 Moses/moses6.md",
     "gospel/scriptures/Pearl of Great Price/01 Moses/moses5.md",
-    "gospel/scriptures/Pearl of Great Price/01 Moses/moses4.md",
     "gospel/scriptures/Pearl of Great Price/05 The Articles of Faith",
     "gospel/scriptures/Pearl of Great Price/04 Joseph Smith History",
     "Apple Notes/attachments/IMG_4565 1.png",
