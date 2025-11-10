@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "gospel/gospelStudy/comeFollowMe/2026 - Old Testament/Introduction to the Old Testament (Dec 29 - Jan 4).md",
+                "file": "games/nms/guides/freighter-guide.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Introduction to the Old Testament (Dec 29 - Jan 4)"
+              "title": "freighter-guide"
             }
           }
         ]
@@ -98,7 +98,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "gospel/gospelStudy/comeFollowMe/2026 - Old Testament/Introduction to the Old Testament (Dec 29 - Jan 4).md",
+                "file": "games/nms/guides/freighter-guide.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -155,7 +155,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Introduction to the Old Testament (Dec 29 - Jan 4)"
+              "title": "Graph of freighter-guide"
             }
           }
         ]
@@ -235,13 +235,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "gospel/gospelStudy/comeFollowMe/2026 - Old Testament/Introduction to the Old Testament (Dec 29 - Jan 4).md",
+                "file": "games/nms/guides/freighter-guide.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Introduction to the Old Testament (Dec 29 - Jan 4)"
+              "title": "Outline of freighter-guide"
             }
           }
         ]
@@ -282,11 +282,12 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "3947428b13c99014",
+  "active": "7dc856309d6c51be",
   "lastOpenFiles": [
+    "gospel/gospelStudy/comeFollowMe/2026 - Old Testament/Introduction to the Old Testament (Dec 29 - Jan 4).md",
+    "games/nms/guides/freighter-guide.md",
     "gospel/gospelStudy/scriptures/Moses/moses01.md",
     "gospel/gospelStudy/comeFollowMe/2026 - Old Testament/Moses 1, Abraham 3 (Jan 5-11).md",
-    "gospel/gospelStudy/comeFollowMe/2026 - Old Testament/Introduction to the Old Testament (Dec 29 - Jan 4).md",
     "games/nms/guides/honey-farming-guide.md",
     "gospel/CLAUDE.md",
     "gospel/GEMINI.md",
@@ -317,7 +318,6 @@
     "gospel/scriptures/Pearl of Great Price/01 Moses/moses8.md",
     "gospel/scriptures/Pearl of Great Price/01 Moses/moses7.md",
     "gospel/scriptures/Pearl of Great Price/01 Moses/moses6.md",
-    "gospel/scriptures/Pearl of Great Price/01 Moses/moses5.md",
     "gospel/scriptures/Pearl of Great Price/05 The Articles of Faith",
     "gospel/scriptures/Pearl of Great Price/04 Joseph Smith History",
     "Apple Notes/attachments/IMG_4565 1.png",
