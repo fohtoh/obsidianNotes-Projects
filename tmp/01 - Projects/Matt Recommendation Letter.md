@@ -1,0 +1,12 @@
+Points
+- Coached with Matt for 10 Years
+	- Behind the scenes and how much he cares about each girl.  Hours and hours of discussions on how to help certain girls overcome obstacles.
+	- Always trying to make himself a better coach.  Always looking for ways to improve his coaching and his knowledge of the game.
+	- Amazing connection with youth.  Knows how to get the best out of his players.
+- His Character
+- Handling of coaching his daughter
+- Always evolving and getting better
+- Is a huge advocate for all the girls.
+- Very knowledgeable in basketball.
+- Trains and coaches hundreds of girls
+- 

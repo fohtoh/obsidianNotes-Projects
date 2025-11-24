@@ -1,0 +1,5 @@
+# Hard Drives
+## M2
+Samsung SSD 860 EVO 1TB
+Samsung SSD 970 EVO 500GB
+WD_BLACK SN850X 2TB 

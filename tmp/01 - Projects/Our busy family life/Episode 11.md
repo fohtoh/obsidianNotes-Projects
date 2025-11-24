@@ -1,0 +1,40 @@
+It has been a while since creating a video.  Need to do a recap video to get caught back up
+
+# Events
+- McKinley
+	- Basketball tournament in Vegas in March
+	- Pocatello tournamnet for Basketball in April
+	- State Soccer
+	- Regional Soccer
+	- Visit with Kelli
+	- San Diego
+	- Provisional soccer
+	- Vegas tournament (AirBnB)
+	- Fort Collins
+		- Broken Jaw
+- Mason
+	- First year of Track/Field
+	- Turned 16 
+	- New Car and Drivers License
+	- First Job
+- Lynndyl
+	- 4-wheeling
+		- April, June
+	- Building Gazeebo
+- REO
+	- Birthday
+- Holidays
+	- 4th of July
+	- Halloween
+- Austin
+	- Birthday
+	- Adidas Cup
+- Braxton/Kayden
+	- Fall Soccer
+	- Jazz game
+	- Train
+- Braxton
+	- Birthday
+- Color run
+- FSY
+- 

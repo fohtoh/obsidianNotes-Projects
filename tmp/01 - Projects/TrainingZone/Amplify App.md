@@ -1,0 +1,16 @@
+## Entities
+- Person
+	- Id
+	- First Name
+	- Last Name
+	- Email (maybe have email in place of id)
+	- Phone
+- Items (this will be tasks, videos etc, what to share to the person)
+	- Id
+	- Title
+	- Description
+	- Link
+	- status (active, complete)
+- Leader/Coach - This will be the coach or leader of the group of persons
+	- todo
+- 

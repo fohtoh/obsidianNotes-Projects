@@ -82,7 +82,13 @@
     "automation": 70,
     "packing": 71,
     "river": 72,
-    "TikTok": 73
+    "TikTok": 73,
+    "videography": 74,
+    "sports": 75,
+    "framerate": 76,
+    "tutorial": 77,
+    "technique": 78,
+    "cinematography": 79
   },
   "_version": 3
 }

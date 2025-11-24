@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "learnAI/Documents/claude_code_lessons_notes.md",
+                "file": "tmp/brad-wilcox-lds-youth-changes-summary.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "claude_code_lessons_notes"
+              "title": "brad-wilcox-lds-youth-changes-summary"
             }
           }
         ]
@@ -98,7 +98,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "learnAI/Documents/claude_code_lessons_notes.md",
+                "file": "tmp/brad-wilcox-lds-youth-changes-summary.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -155,7 +155,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of claude_code_lessons_notes"
+              "title": "Graph of brad-wilcox-lds-youth-changes-summary"
             }
           }
         ]
@@ -235,13 +235,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "learnAI/Documents/claude_code_lessons_notes.md",
+                "file": "tmp/brad-wilcox-lds-youth-changes-summary.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of claude_code_lessons_notes"
+              "title": "Outline of brad-wilcox-lds-youth-changes-summary"
             }
           }
         ]
@@ -282,11 +282,33 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "7dc856309d6c51be",
+  "active": "3947428b13c99014",
   "lastOpenFiles": [
+    "tmp/01 - Projects/Our busy family life/Episode 11.md",
+    "tmp/01 - Projects/Videography/Sports Videography - Frame Rates Guide.md",
+    "tmp/01 - Projects/TrainingZone/TZ_stats.md",
+    "tmp/01 - Projects/TrainingZone/Podium.md",
+    "tmp/01 - Projects/TrainingZone/Amplify App.md",
+    "tmp/01 - Projects/TrainingZone/AWS.md",
+    "tmp/01 - Projects/Photography/PhotoDay.md",
+    "tmp/01 - Projects/Photography/Mountain Ridge Girls Soccer Photos.md",
+    "tmp/01 - Projects/Photography/Lights.md",
+    "tmp/01 - Projects/Fohtoh's PC details.md",
+    "tmp/01 - Projects/Our busy family life",
+    "tmp/01 - Projects/Videography",
+    "tmp/01 - Projects/TrainingZone",
+    "tmp/01 - Projects/Photography",
+    "tmp/01 - Projects/Personal",
+    "tmp/01 - Projects/Insurance.md",
+    "tmp/01 - Projects/Matt Recommendation Letter.md",
+    "tmp/01 - Projects/DnD(1).md",
+    "tmp/01 - Projects",
+    "tmp/vim-essential-commands-guide.md",
+    "learnAI/Documents/claude_code_lessons_notes.md",
+    "tmp/brad-wilcox-lds-youth-changes-summary.md",
+    "tmp",
     "learnAI/Documents",
     "learnAI/Untitled.md",
-    "learnAI/Documents/claude_code_lessons_notes.md",
     "learnAI/Documents/youveBeenUsingAITheHardWay_Video.md",
     "learnAI/GEMINI.md",
     "learnAI/video_summary.md",
@@ -296,30 +318,8 @@
     "gospel/gospelStudy/comeFollowMe/2026 - Old Testament/Moses 1, Abraham 3 (Jan 5-11).md",
     "games/nms/guides/honey-farming-guide.md",
     "gospel/CLAUDE.md",
-    "gospel/GEMINI.md",
-    "gospel/gospelStudy/scriptures/Genesis/genesis01.md",
-    "gospel/gospelStudy/scriptures/Genesis/genesis02.md",
-    "gospel/gospelStudy/comeFollowMe/2026 - Old Testament/README.md",
-    "gospel/gospelStudy/scriptures/Abraham/abraham03.md",
-    "gospel/gospelStudy/topics/Jesus Christ.md",
-    "gospel/gospelStudy/topics/Jews.md",
     "gospel/gospelStudy/scriptures/Moses",
     "gospel/gospelStudy/scriptures/Genesis",
-    "gospel/gospelStudy/scriptures/Abraham",
-    "gospel/gospelStudy/comeFollowMe/2026 - Old Testament",
-    "gospel/gospelStudy/topics",
-    "gospel/gospelStudy/scriptures",
-    "gospel/gospelStudy/comeFollowMe",
-    "gospel/gospelStudy/README.md",
-    "gospel/gospelStudy/GEMINI.md",
-    "gospel/gospelStudy",
-    "gospel/scriptures/Pearl of Great Price/05 The Articles of Faith/theArticlesOfFaith.md",
-    "gospel/scriptures/Pearl of Great Price/04 Joseph Smith History/josephSmithHistory.md",
-    "gospel/scriptures/Pearl of Great Price/03 Joseph Smith Matthew/josephSmithMatthew.md",
-    "gospel/scriptures/Pearl of Great Price/02 Abraham/abraham5.md",
-    "gospel/scriptures/Pearl of Great Price/02 Abraham/abraham4.md",
-    "gospel/scriptures/Pearl of Great Price/05 The Articles of Faith",
-    "gospel/scriptures/Pearl of Great Price/04 Joseph Smith History",
     "Apple Notes/attachments/IMG_4565 1.png",
     "Apple Notes/attachments/IMG_4565.png",
     "Apple Notes/attachments/IMG_4560.png",
