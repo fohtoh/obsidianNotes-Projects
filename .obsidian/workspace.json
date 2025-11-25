@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tmp/brad-wilcox-lds-youth-changes-summary.md",
+                "file": "gospel/gospelStudy/comeFollowMe/2026 - Old Testament/Introduction to the Old Testament (Dec 29 - Jan 4).md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "brad-wilcox-lds-youth-changes-summary"
+              "title": "Introduction to the Old Testament (Dec 29 - Jan 4)"
             }
           }
         ]
@@ -98,7 +98,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "tmp/brad-wilcox-lds-youth-changes-summary.md",
+                "file": "gospel/gospelStudy/comeFollowMe/2026 - Old Testament/Introduction to the Old Testament (Dec 29 - Jan 4).md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -155,7 +155,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of brad-wilcox-lds-youth-changes-summary"
+              "title": "Graph of Introduction to the Old Testament (Dec 29 - Jan 4)"
             }
           }
         ]
@@ -235,13 +235,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "tmp/brad-wilcox-lds-youth-changes-summary.md",
+                "file": "gospel/gospelStudy/comeFollowMe/2026 - Old Testament/Introduction to the Old Testament (Dec 29 - Jan 4).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of brad-wilcox-lds-youth-changes-summary"
+              "title": "Outline of Introduction to the Old Testament (Dec 29 - Jan 4)"
             }
           }
         ]
@@ -284,6 +284,7 @@
   },
   "active": "3947428b13c99014",
   "lastOpenFiles": [
+    "tmp/brad-wilcox-lds-youth-changes-summary.md",
     "tmp/01 - Projects/Our busy family life/Episode 11.md",
     "tmp/01 - Projects/Videography/Sports Videography - Frame Rates Guide.md",
     "tmp/01 - Projects/TrainingZone/TZ_stats.md",
@@ -305,7 +306,6 @@
     "tmp/01 - Projects",
     "tmp/vim-essential-commands-guide.md",
     "learnAI/Documents/claude_code_lessons_notes.md",
-    "tmp/brad-wilcox-lds-youth-changes-summary.md",
     "tmp",
     "learnAI/Documents",
     "learnAI/Untitled.md",
