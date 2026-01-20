@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "gospel/gospelStudy/comeFollowMe/2026 - Old Testament/Introduction to the Old Testament (Dec 29 - Jan 4).md",
+                "file": "gospel/gospelStudy/scriptures/Genesis/genesis01.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Introduction to the Old Testament (Dec 29 - Jan 4)"
+              "title": "genesis01"
             }
           }
         ]
@@ -98,7 +98,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "gospel/gospelStudy/comeFollowMe/2026 - Old Testament/Introduction to the Old Testament (Dec 29 - Jan 4).md",
+                "file": "gospel/gospelStudy/scriptures/Genesis/genesis01.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -155,7 +155,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Introduction to the Old Testament (Dec 29 - Jan 4)"
+              "title": "Graph of genesis01"
             }
           }
         ]
@@ -235,13 +235,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "gospel/gospelStudy/comeFollowMe/2026 - Old Testament/Introduction to the Old Testament (Dec 29 - Jan 4).md",
+                "file": "gospel/gospelStudy/scriptures/Genesis/genesis01.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Introduction to the Old Testament (Dec 29 - Jan 4)"
+              "title": "Outline of genesis01"
             }
           }
         ]
@@ -284,6 +284,18 @@
   },
   "active": "3947428b13c99014",
   "lastOpenFiles": [
+    "gospel/gospelStudy/comeFollowMe/2026 - Old Testament/Moses 1, Abraham 3 (Jan 5-11).md",
+    "gospel/gospelStudy/comeFollowMe/2026 - Old Testament/Introduction to the Old Testament (Dec 29 - Jan 4).md",
+    "gospel/gospelStudy/scriptures/Abraham/abraham05.md",
+    "gospel/gospelStudy/scriptures/Abraham/abraham04.md",
+    "gospel/gospelStudy/scriptures/Moses/moses02.md",
+    "gospel/gospelStudy/scriptures/Moses/moses03.md",
+    "gospel/gospelStudy/scriptures/Moses/moses01.md",
+    "gospel/gospelStudy/scriptures/Abraham/abraham03.md",
+    "gospel/gospelStudy/topics/Jesus Christ.md",
+    "gospel/scriptures/Old Testament/02 Exodus/exodus3.md",
+    "gospel/gospelStudy/comeFollowMe/2026 - Old Testament/README.md",
+    "learnAI/Documents/youveBeenUsingAITheHardWay_Video.md",
     "tmp/brad-wilcox-lds-youth-changes-summary.md",
     "tmp/01 - Projects/Our busy family life/Episode 11.md",
     "tmp/01 - Projects/Videography/Sports Videography - Frame Rates Guide.md",
@@ -304,20 +316,8 @@
     "tmp/01 - Projects/Matt Recommendation Letter.md",
     "tmp/01 - Projects/DnD(1).md",
     "tmp/01 - Projects",
-    "tmp/vim-essential-commands-guide.md",
-    "learnAI/Documents/claude_code_lessons_notes.md",
     "tmp",
     "learnAI/Documents",
-    "learnAI/Untitled.md",
-    "learnAI/Documents/youveBeenUsingAITheHardWay_Video.md",
-    "learnAI/GEMINI.md",
-    "learnAI/video_summary.md",
-    "games/nms/guides/freighter-guide.md",
-    "gospel/gospelStudy/comeFollowMe/2026 - Old Testament/Introduction to the Old Testament (Dec 29 - Jan 4).md",
-    "gospel/gospelStudy/scriptures/Moses/moses01.md",
-    "gospel/gospelStudy/comeFollowMe/2026 - Old Testament/Moses 1, Abraham 3 (Jan 5-11).md",
-    "games/nms/guides/honey-farming-guide.md",
-    "gospel/CLAUDE.md",
     "gospel/gospelStudy/scriptures/Moses",
     "gospel/gospelStudy/scriptures/Genesis",
     "Apple Notes/attachments/IMG_4565 1.png",
