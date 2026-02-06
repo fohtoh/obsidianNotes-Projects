@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "gospel/gospelStudy/scriptures/Genesis/genesis01.md",
+                "file": "learnAI/Documents/youveBeenUsingAITheHardWay_Video.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "genesis01"
+              "title": "youveBeenUsingAITheHardWay_Video"
             }
           }
         ]
@@ -98,7 +98,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "gospel/gospelStudy/scriptures/Genesis/genesis01.md",
+                "file": "learnAI/Documents/youveBeenUsingAITheHardWay_Video.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -155,7 +155,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of genesis01"
+              "title": "Graph of youveBeenUsingAITheHardWay_Video"
             }
           }
         ]
@@ -235,13 +235,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "gospel/gospelStudy/scriptures/Genesis/genesis01.md",
+                "file": "learnAI/Documents/youveBeenUsingAITheHardWay_Video.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of genesis01"
+              "title": "Outline of youveBeenUsingAITheHardWay_Video"
             }
           }
         ]
@@ -284,6 +284,10 @@
   },
   "active": "3947428b13c99014",
   "lastOpenFiles": [
+    "codexGame",
+    "learnAI/Documents/claude_code_lessons_notes.md",
+    "gospel/gospelStudy/scriptures/Genesis/genesis01.md",
+    "gospel/dump.rdb",
     "gospel/gospelStudy/comeFollowMe/2026 - Old Testament/Moses 1, Abraham 3 (Jan 5-11).md",
     "gospel/gospelStudy/comeFollowMe/2026 - Old Testament/Introduction to the Old Testament (Dec 29 - Jan 4).md",
     "gospel/gospelStudy/scriptures/Abraham/abraham05.md",
@@ -312,14 +316,10 @@
     "tmp/01 - Projects/TrainingZone",
     "tmp/01 - Projects/Photography",
     "tmp/01 - Projects/Personal",
-    "tmp/01 - Projects/Insurance.md",
-    "tmp/01 - Projects/Matt Recommendation Letter.md",
-    "tmp/01 - Projects/DnD(1).md",
     "tmp/01 - Projects",
     "tmp",
     "learnAI/Documents",
     "gospel/gospelStudy/scriptures/Moses",
-    "gospel/gospelStudy/scriptures/Genesis",
     "Apple Notes/attachments/IMG_4565 1.png",
     "Apple Notes/attachments/IMG_4565.png",
     "Apple Notes/attachments/IMG_4560.png",
