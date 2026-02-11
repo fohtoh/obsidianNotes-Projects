@@ -1,0 +1,212 @@
+{
+  "main": {
+    "id": "8128b3b95976aa32",
+    "type": "split",
+    "children": [
+      {
+        "id": "017c51ac7ecdb9dd",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "dailyNotes/2022-10-13.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a6f3f5c61a22b0e2",
+    "type": "split",
+    "children": [
+      {
+        "id": "f491c8169650446a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7dc856309d6c51be",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "8f7a7a79210f8939",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "ngiwb1",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "257b44d3f49c9751",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6a337d6f306f32a2",
+    "type": "split",
+    "children": [
+      {
+        "id": "a7b378dfb2467f6a",
+        "type": "tabs",
+        "dimension": 68.3695652173913,
+        "children": [
+          {
+            "id": "f59396e94320bb65",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "dailyNotes/2022-10-13.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "byModifiedTime",
+                "showSearch": true,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "8f7db7513350f51d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "dailyNotes/2022-10-13.md"
+              }
+            }
+          },
+          {
+            "id": "5ca5a40e57e32349",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "3b0839ab7de8b437",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "6fb4b3c42f6bf78a",
+        "type": "tabs",
+        "dimension": 31.630434782608695,
+        "children": [
+          {
+            "id": "d83f9aa83e3c9bbb",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "dailyNotes/2022-10-13.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": false,
+                  "colorGroups": [
+                    {
+                      "query": "path:People",
+                      "color": {
+                        "a": 1,
+                        "rgb": 14701138
+                      }
+                    },
+                    {
+                      "query": "path:dailyNotes",
+                      "color": {
+                        "a": 1,
+                        "rgb": 16241805
+                      }
+                    },
+                    {
+                      "query": "path:\"000 Index Pages\"",
+                      "color": {
+                        "a": 1,
+                        "rgb": 65288
+                      }
+                    },
+                    {
+                      "query": "path:LCR",
+                      "color": {
+                        "a": 1,
+                        "rgb": 84949
+                      }
+                    }
+                  ],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.2222032480053137,
+                  "close": true
+                }
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "017c51ac7ecdb9dd",
+  "lastOpenFiles": [
+    "dailyNotes/2022-10-06.md",
+    "LCR/LCR-8066.md",
+    "dailyNotes/attachments/Recording 20221007100203.webm",
+    "LCR/LCR - OAuth.md",
+    "LCR/LCR Projects.md",
+    "000 Index Pages/Work Notes.md",
+    "Vacation.md",
+    "dailyNotes/2022-10-07.md",
+    "People/Josh Kitterman.md",
+    "People/Rob Egbert.md"
+  ]
+}

@@ -25,5 +25,5 @@
   "trashOption": "local",
   "promptDelete": false,
   "showLineNumber": true,
-  "vimMode": true
+  "vimMode": false
 }

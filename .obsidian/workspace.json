@@ -4,31 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "afa3f6d9e3dfe751",
+        "id": "ad0878830f45c65b",
         "type": "tabs",
         "children": [
           {
-            "id": "3947428b13c99014",
+            "id": "51282a56129757f1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "learnAI/Documents/youveBeenUsingAITheHardWay_Video.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "youveBeenUsingAITheHardWay_Video"
+              "title": "New tab"
             }
           }
         ]
@@ -52,7 +38,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": true
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -64,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#obsidian",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -98,7 +84,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "learnAI/Documents/youveBeenUsingAITheHardWay_Video.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -150,19 +135,19 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.3961637292308589,
+                  "scale": 0.21644219292399386,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of youveBeenUsingAITheHardWay_Video"
+              "title": "Graph view"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 394
+    "width": 300
   },
   "right": {
     "id": "6a337d6f306f32a2",
@@ -235,13 +220,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "learnAI/Documents/youveBeenUsingAITheHardWay_Video.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of youveBeenUsingAITheHardWay_Video"
+              "title": "Outline"
             }
           }
         ]
@@ -282,47 +266,47 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "3947428b13c99014",
+  "active": "51282a56129757f1",
   "lastOpenFiles": [
-    "codexGame",
-    "learnAI/Documents/claude_code_lessons_notes.md",
-    "gospel/gospelStudy/scriptures/Genesis/genesis01.md",
-    "gospel/dump.rdb",
-    "gospel/gospelStudy/comeFollowMe/2026 - Old Testament/Moses 1, Abraham 3 (Jan 5-11).md",
-    "gospel/gospelStudy/comeFollowMe/2026 - Old Testament/Introduction to the Old Testament (Dec 29 - Jan 4).md",
-    "gospel/gospelStudy/scriptures/Abraham/abraham05.md",
-    "gospel/gospelStudy/scriptures/Abraham/abraham04.md",
-    "gospel/gospelStudy/scriptures/Moses/moses02.md",
-    "gospel/gospelStudy/scriptures/Moses/moses03.md",
-    "gospel/gospelStudy/scriptures/Moses/moses01.md",
-    "gospel/gospelStudy/scriptures/Abraham/abraham03.md",
-    "gospel/gospelStudy/topics/Jesus Christ.md",
-    "gospel/scriptures/Old Testament/02 Exodus/exodus3.md",
-    "gospel/gospelStudy/comeFollowMe/2026 - Old Testament/README.md",
-    "learnAI/Documents/youveBeenUsingAITheHardWay_Video.md",
-    "tmp/brad-wilcox-lds-youth-changes-summary.md",
-    "tmp/01 - Projects/Our busy family life/Episode 11.md",
-    "tmp/01 - Projects/Videography/Sports Videography - Frame Rates Guide.md",
-    "tmp/01 - Projects/TrainingZone/TZ_stats.md",
-    "tmp/01 - Projects/TrainingZone/Podium.md",
-    "tmp/01 - Projects/TrainingZone/Amplify App.md",
-    "tmp/01 - Projects/TrainingZone/AWS.md",
-    "tmp/01 - Projects/Photography/PhotoDay.md",
-    "tmp/01 - Projects/Photography/Mountain Ridge Girls Soccer Photos.md",
-    "tmp/01 - Projects/Photography/Lights.md",
-    "tmp/01 - Projects/Fohtoh's PC details.md",
-    "tmp/01 - Projects/Our busy family life",
-    "tmp/01 - Projects/Videography",
-    "tmp/01 - Projects/TrainingZone",
-    "tmp/01 - Projects/Photography",
-    "tmp/01 - Projects/Personal",
-    "tmp/01 - Projects",
-    "tmp",
-    "learnAI/Documents",
-    "gospel/gospelStudy/scriptures/Moses",
+    "04 - Daily/2026-02-09.md",
+    "02 - Areas/MLTP/Feature.md",
+    "04 - Daily/2026-02-06.md",
+    "04 - Daily/2026-02-05.md",
+    "04 - Daily/2026-02-04.md",
+    "04 - Daily/2021-03-25.md",
+    "02 - Areas/MLTP/MLTP - Platform.md",
+    "04 - Daily/2026-02-03.md",
+    "04 - Daily/2026-02-02.md",
+    "02 - Areas/HR/Vacation.md",
+    "04 - Daily/2026-01-30.md",
+    "04 - Daily/2026-01-29.md",
+    "04 - Daily/2026-01-27.md",
+    "01 - Projects/Groups.md",
+    "04 - Daily/2026-01-21.md",
+    "04 - Daily/2026-01-16.md",
+    "04 - Daily/2026-01-14.md",
+    "04 - Daily/2026-01-12.md",
+    "04 - Daily/2026-01-23.md",
+    "Resiliency.md",
+    "04 - Daily/2025-11-04.md",
+    "02 - Areas/LCR-BE/Boundary Leader Proposal (BLP)/Boundary Leader Proposal (BLP).md",
+    "03 - Resources/People/Ryan Jones.md",
+    "04 - Daily/2025-11-24.md",
+    "04 - Daily/2025-10-13.md",
+    "02 - Areas/LCR-BE/One Work/One Work.md",
+    "02 - Areas/HR/2023",
+    "02 - Areas/HR/2022",
+    "02 - Areas/HR/2025",
+    "02 - Areas/HR/2024",
+    "02 - Areas/Development",
+    "Temporary notes",
+    "01 - Projects/Legacy CMIS",
+    "Apple Notes/attachments/Scan 10.pdf",
+    "Apple Notes/attachments/Scan 9.pdf",
     "Apple Notes/attachments/IMG_4565 1.png",
     "Apple Notes/attachments/IMG_4565.png",
     "Apple Notes/attachments/IMG_4560.png",
+    "Apple Notes/attachments/Scan 8.pdf",
     "Apple Notes/attachments/Drivers license.jpeg",
     "Apple Notes/attachments/insuranceIdCard.png",
     "Apple Notes/attachments/Scan Page 18.jpg",

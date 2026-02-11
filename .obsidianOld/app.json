@@ -1,0 +1,29 @@
+{
+  "obsidianCss": true,
+  "readableLineLength": false,
+  "spellcheck": true,
+  "attachmentFolderPath": "./attachments",
+  "foldIndent": true,
+  "foldHeading": true,
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "spellcheckDictionary": [
+    "Activations",
+    "figma",
+    "backend",
+    "umlu"
+  ],
+  "alwaysUpdateLinks": true,
+  "legacyEditor": false,
+  "livePreview": true,
+  "fileSortOrder": "byCreatedTime",
+  "trashOption": "local",
+  "promptDelete": false,
+  "showLineNumber": true,
+  "vimMode": true
+}
